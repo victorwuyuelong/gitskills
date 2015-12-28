@@ -110,7 +110,7 @@ namespace ServerFast
         /// </summary>
         // string chu;
 
-
+//1.0
         private void btnSendMsg_Click(object sender, EventArgs e)
         {
             if (lstOnline.SelectedItem != null)//如果已经选中了就准备发消息
