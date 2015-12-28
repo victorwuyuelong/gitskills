@@ -1,0 +1,17 @@
+E:\吴跃龙工作区\以前项目\socket服务器端-2015-12-14\socket服务器端-2015-11-20\ServerFast\bin\Release\ServerFast.exe
+E:\吴跃龙工作区\以前项目\socket服务器端-2015-12-14\socket服务器端-2015-11-20\ServerFast\bin\Release\ServerFast.pdb
+E:\吴跃龙工作区\以前项目\socket服务器端-2015-12-14\socket服务器端-2015-11-20\ServerFast\bin\Release\LitJson.dll
+E:\吴跃龙工作区\以前项目\socket服务器端-2015-12-14\socket服务器端-2015-11-20\ServerFast\obj\x86\Release\ServerFast.Form1.resources
+E:\吴跃龙工作区\以前项目\socket服务器端-2015-12-14\socket服务器端-2015-11-20\ServerFast\obj\x86\Release\ServerFast.Properties.Resources.resources
+E:\吴跃龙工作区\以前项目\socket服务器端-2015-12-14\socket服务器端-2015-11-20\ServerFast\obj\x86\Release\ServerFast.csproj.GenerateResource.Cache
+E:\吴跃龙工作区\以前项目\socket服务器端-2015-12-14\socket服务器端-2015-11-20\ServerFast\obj\x86\Release\ServerFast.exe
+E:\吴跃龙工作区\以前项目\socket服务器端-2015-12-14\socket服务器端-2015-11-20\ServerFast\obj\x86\Release\ServerFast.pdb
+E:\吴跃龙工作区\现在项目\SocketTest\socket服务器端\ServerFast\obj\x86\Release\ServerFast.exe
+E:\吴跃龙工作区\现在项目\SocketTest\socket服务器端\ServerFast\obj\x86\Release\ServerFast.pdb
+E:\吴跃龙工作区\现在项目\SocketTest\socket服务器端\ServerFast\bin\Release\ServerFast.exe
+E:\吴跃龙工作区\现在项目\SocketTest\socket服务器端\ServerFast\bin\Release\ServerFast.pdb
+E:\吴跃龙工作区\现在项目\SocketTest\socket服务器端\ServerFast\bin\Release\LitJson.dll
+E:\吴跃龙工作区\现在项目\SocketTest\socket服务器端\ServerFast\obj\x86\Release\ServerFast.csprojResolveAssemblyReference.cache
+E:\吴跃龙工作区\现在项目\SocketTest\socket服务器端\ServerFast\obj\x86\Release\ServerFast.Form1.resources
+E:\吴跃龙工作区\现在项目\SocketTest\socket服务器端\ServerFast\obj\x86\Release\ServerFast.Properties.Resources.resources
+E:\吴跃龙工作区\现在项目\SocketTest\socket服务器端\ServerFast\obj\x86\Release\ServerFast.csproj.GenerateResource.Cache

@@ -1,0 +1,142 @@
+c:\users\2012218\documents\visual studio 2010\Projects\ServerFast\ServerFast\obj\x86\Debug\ServerFast.csprojResolveAssemblyReference.cache
+c:\users\2012218\documents\visual studio 2010\Projects\ServerFast\ServerFast\obj\x86\Debug\ServerFast.Form1.resources
+c:\users\2012218\documents\visual studio 2010\Projects\ServerFast\ServerFast\obj\x86\Debug\ServerFast.Properties.Resources.resources
+c:\users\2012218\documents\visual studio 2010\Projects\ServerFast\ServerFast\obj\x86\Debug\ServerFast.csproj.GenerateResource.Cache
+c:\users\2012218\documents\visual studio 2010\Projects\ServerFast\ServerFast\bin\Debug\ServerFast.exe
+c:\users\2012218\documents\visual studio 2010\Projects\ServerFast\ServerFast\bin\Debug\ServerFast.pdb
+c:\users\2012218\documents\visual studio 2010\Projects\ServerFast\ServerFast\bin\Debug\LitJson.dll
+c:\users\2012218\documents\visual studio 2010\Projects\ServerFast\ServerFast\obj\x86\Debug\ServerFast.exe
+c:\users\2012218\documents\visual studio 2010\Projects\ServerFast\ServerFast\obj\x86\Debug\ServerFast.pdb
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-1\ServerFast\obj\x86\Debug\ServerFast.exe
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-1\ServerFast\bin\Debug\ServerFast.exe
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-1\ServerFast\bin\Debug\ServerFast.pdb
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-1\ServerFast\bin\Debug\LitJson.dll
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-1\ServerFast\obj\x86\Debug\ServerFast.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-1\ServerFast\obj\x86\Debug\ServerFast.Form1.resources
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-1\ServerFast\obj\x86\Debug\ServerFast.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-1\ServerFast\obj\x86\Debug\ServerFast.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-1\ServerFast\obj\x86\Debug\ServerFast.pdb
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-3根据J改动\ServerFast\obj\x86\Debug\ServerFast.exe
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-3根据J改动\ServerFast\obj\x86\Debug\ServerFast.pdb
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-3根据J改动\ServerFast\bin\Debug\ServerFast.exe
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-3根据J改动\ServerFast\bin\Debug\ServerFast.pdb
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-3根据J改动\ServerFast\bin\Debug\LitJson.dll
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-3根据J改动\ServerFast\obj\x86\Debug\ServerFast.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-3根据J改动\ServerFast\obj\x86\Debug\ServerFast.Form1.resources
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-3根据J改动\ServerFast\obj\x86\Debug\ServerFast.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-3根据J改动\ServerFast\obj\x86\Debug\ServerFast.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-3根据J改动 合并\ServerFast\obj\x86\Debug\ServerFast.exe
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-3根据J改动 合并\ServerFast\obj\x86\Debug\ServerFast.pdb
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-3根据J改动 合并\ServerFast\bin\Debug\ServerFast.exe
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-3根据J改动 合并\ServerFast\bin\Debug\ServerFast.pdb
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-3根据J改动 合并\ServerFast\bin\Debug\LitJson.dll
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-3根据J改动 合并\ServerFast\obj\x86\Debug\ServerFast.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-3根据J改动 合并\ServerFast\obj\x86\Debug\ServerFast.Form1.resources
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-3根据J改动 合并\ServerFast\obj\x86\Debug\ServerFast.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-3根据J改动 合并\ServerFast\obj\x86\Debug\ServerFast.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-4根据J改动 合并\ServerFast\obj\x86\Debug\ServerFast.exe
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-4根据J改动 合并\ServerFast\obj\x86\Debug\ServerFast.pdb
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-4根据J改动 合并\ServerFast\bin\Debug\ServerFast.exe
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-4根据J改动 合并\ServerFast\bin\Debug\ServerFast.pdb
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-4根据J改动 合并\ServerFast\bin\Debug\LitJson.dll
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-4根据J改动 合并\ServerFast\obj\x86\Debug\ServerFast.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-4根据J改动 合并\ServerFast\obj\x86\Debug\ServerFast.Form1.resources
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-4根据J改动 合并\ServerFast\obj\x86\Debug\ServerFast.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-4根据J改动 合并\ServerFast\obj\x86\Debug\ServerFast.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-5根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.exe
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-5根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.pdb
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-5根据J改动 合并异步\ServerFast\bin\Debug\ServerFast.exe
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-5根据J改动 合并异步\ServerFast\bin\Debug\ServerFast.pdb
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-5根据J改动 合并异步\ServerFast\bin\Debug\LitJson.dll
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-5根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-5根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.Form1.resources
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-5根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-5根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.csproj.GenerateResource.Cache
+C:\Users\Master\Desktop\远程配置工具1-5根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.exe
+C:\Users\Master\Desktop\远程配置工具1-5根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.pdb
+C:\Users\Master\Desktop\远程配置工具1-5根据J改动 合并异步\ServerFast\bin\Debug\ServerFast.exe
+C:\Users\Master\Desktop\远程配置工具1-5根据J改动 合并异步\ServerFast\bin\Debug\ServerFast.pdb
+C:\Users\Master\Desktop\远程配置工具1-5根据J改动 合并异步\ServerFast\bin\Debug\LitJson.dll
+C:\Users\Master\Desktop\远程配置工具1-5根据J改动 合并异步\ServerFast\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Master\Desktop\远程配置工具1-5根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.Form1.resources
+C:\Users\Master\Desktop\远程配置工具1-5根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.Properties.Resources.resources
+C:\Users\Master\Desktop\远程配置工具1-5根据J改动 合并异步\ServerFast\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Master\Desktop\远程配置工具1-5根据J改动 合并异步\ServerFast\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.exe
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.pdb
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\bin\Debug\ServerFast.exe
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\bin\Debug\ServerFast.pdb
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\bin\Debug\LitJson.dll
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.Form1.resources
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141013\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.exe
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141013\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.pdb
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141013\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\bin\Debug\ServerFast.exe
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141013\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\bin\Debug\ServerFast.pdb
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141013\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\bin\Debug\LitJson.dll
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141013\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141013\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.Form1.resources
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141013\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141013\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141015客户端掉线\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.exe
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141015客户端掉线\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.pdb
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141015客户端掉线\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\bin\Debug\ServerFast.exe
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141015客户端掉线\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\bin\Debug\ServerFast.pdb
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141015客户端掉线\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\bin\Debug\LitJson.dll
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141015客户端掉线\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141015客户端掉线\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.Form1.resources
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141015客户端掉线\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141015客户端掉线\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.exe
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.pdb
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\bin\Debug\ServerFast.exe
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\bin\Debug\ServerFast.pdb
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\bin\Debug\LitJson.dll
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.Form1.resources
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SERVERFAst\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.csproj.GenerateResource.Cache
+F:\瀚之显\厦门才茂\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.exe
+F:\瀚之显\厦门才茂\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.pdb
+F:\瀚之显\厦门才茂\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\bin\Debug\ServerFast.exe
+F:\瀚之显\厦门才茂\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\bin\Debug\ServerFast.pdb
+F:\瀚之显\厦门才茂\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\bin\Debug\LitJson.dll
+F:\瀚之显\厦门才茂\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.csprojResolveAssemblyReference.cache
+F:\瀚之显\厦门才茂\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.Form1.resources
+F:\瀚之显\厦门才茂\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.Properties.Resources.resources
+F:\瀚之显\厦门才茂\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.csproj.GenerateResource.Cache
+D:\吴跃龙工作区\现在项目\工地噪声扬尘在线监控系统备份\20141016客户端掉线无设备号\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.exe
+D:\吴跃龙工作区\现在项目\工地噪声扬尘在线监控系统备份\20141016客户端掉线无设备号\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.pdb
+D:\吴跃龙工作区\现在项目\工地噪声扬尘在线监控系统备份\20141016客户端掉线无设备号\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\bin\Debug\ServerFast.exe
+D:\吴跃龙工作区\现在项目\工地噪声扬尘在线监控系统备份\20141016客户端掉线无设备号\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\bin\Debug\ServerFast.pdb
+D:\吴跃龙工作区\现在项目\工地噪声扬尘在线监控系统备份\20141016客户端掉线无设备号\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\bin\Debug\LitJson.dll
+D:\吴跃龙工作区\现在项目\工地噪声扬尘在线监控系统备份\20141016客户端掉线无设备号\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.Form1.resources
+D:\吴跃龙工作区\现在项目\工地噪声扬尘在线监控系统备份\20141016客户端掉线无设备号\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.Properties.Resources.resources
+D:\吴跃龙工作区\现在项目\工地噪声扬尘在线监控系统备份\20141016客户端掉线无设备号\远程配置工具异步20141016客户端掉线无设备号\远程配置工具1-6根据J改动 合并异步\远程配置工具1-6根据J改动 合并异步\ServerFast\obj\x86\Debug\ServerFast.csproj.GenerateResource.Cache
+E:\吴岳龙工作文件夹\socket服务器端-2015-11-20\ServerFast\bin\Debug\ServerFast.exe
+E:\吴岳龙工作文件夹\socket服务器端-2015-11-20\ServerFast\bin\Debug\ServerFast.pdb
+E:\吴岳龙工作文件夹\socket服务器端-2015-11-20\ServerFast\bin\Debug\LitJson.dll
+E:\吴岳龙工作文件夹\socket服务器端-2015-11-20\ServerFast\obj\x86\Debug\ServerFast.Form1.resources
+E:\吴岳龙工作文件夹\socket服务器端-2015-11-20\ServerFast\obj\x86\Debug\ServerFast.Properties.Resources.resources
+E:\吴岳龙工作文件夹\socket服务器端-2015-11-20\ServerFast\obj\x86\Debug\ServerFast.csproj.GenerateResource.Cache
+E:\吴岳龙工作文件夹\socket服务器端-2015-11-20\ServerFast\obj\x86\Debug\ServerFast.exe
+E:\吴岳龙工作文件夹\socket服务器端-2015-11-20\ServerFast\obj\x86\Debug\ServerFast.pdb
+E:\吴跃龙工作区\以前项目\socket服务器端-2015-12-14\socket服务器端-2015-11-20\ServerFast\obj\x86\Debug\ServerFast.exe
+E:\吴跃龙工作区\以前项目\socket服务器端-2015-12-14\socket服务器端-2015-11-20\ServerFast\obj\x86\Debug\ServerFast.pdb
+E:\吴跃龙工作区\以前项目\socket服务器端-2015-12-14\socket服务器端-2015-11-20\ServerFast\bin\Debug\ServerFast.exe
+E:\吴跃龙工作区\以前项目\socket服务器端-2015-12-14\socket服务器端-2015-11-20\ServerFast\bin\Debug\ServerFast.pdb
+E:\吴跃龙工作区\以前项目\socket服务器端-2015-12-14\socket服务器端-2015-11-20\ServerFast\bin\Debug\LitJson.dll
+E:\吴跃龙工作区\以前项目\socket服务器端-2015-12-14\socket服务器端-2015-11-20\ServerFast\obj\x86\Debug\ServerFast.Form1.resources
+E:\吴跃龙工作区\以前项目\socket服务器端-2015-12-14\socket服务器端-2015-11-20\ServerFast\obj\x86\Debug\ServerFast.Properties.Resources.resources
+E:\吴跃龙工作区\以前项目\socket服务器端-2015-12-14\socket服务器端-2015-11-20\ServerFast\obj\x86\Debug\ServerFast.csproj.GenerateResource.Cache
+E:\吴跃龙工作区\现在项目\SocketTest\socket服务器端\ServerFast\obj\x86\Debug\ServerFast.exe
+E:\吴跃龙工作区\现在项目\SocketTest\socket服务器端\ServerFast\obj\x86\Debug\ServerFast.pdb
+E:\吴跃龙工作区\现在项目\SocketTest\socket服务器端\ServerFast\bin\Debug\ServerFast.exe
+E:\吴跃龙工作区\现在项目\SocketTest\socket服务器端\ServerFast\bin\Debug\ServerFast.pdb
+E:\吴跃龙工作区\现在项目\SocketTest\socket服务器端\ServerFast\bin\Debug\LitJson.dll
+E:\吴跃龙工作区\现在项目\SocketTest\socket服务器端\ServerFast\obj\x86\Debug\ServerFast.csprojResolveAssemblyReference.cache
+E:\吴跃龙工作区\现在项目\SocketTest\socket服务器端\ServerFast\obj\x86\Debug\ServerFast.Form1.resources
+E:\吴跃龙工作区\现在项目\SocketTest\socket服务器端\ServerFast\obj\x86\Debug\ServerFast.Properties.Resources.resources
+E:\吴跃龙工作区\现在项目\SocketTest\socket服务器端\ServerFast\obj\x86\Debug\ServerFast.csproj.GenerateResource.Cache
